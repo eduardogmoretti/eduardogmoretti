@@ -2,7 +2,7 @@
 
 - Contato 📧: dudugmoretti@gmail.com
 - Ciências da Computação 📚: IMT
-- Estudando Front End 💻
+- Estudando Java 💻
 
 <div>
   <a href="https://github.com/eduardogmoretti">
